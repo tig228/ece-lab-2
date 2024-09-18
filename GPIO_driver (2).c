@@ -1,11 +1,3 @@
-/*
- * GPIO_Driver.c
- *
- *  Created on: Sep 2, 2024
- *      Author: naher
- */
-
-
 #include <msp430.h>
 #include "GPIO_Driver.h"
 
